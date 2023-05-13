@@ -1,4 +1,4 @@
-# productor
+# RodrigoQ
 prodructor-consumidor memoria compartida
 import multiprocessing
 
